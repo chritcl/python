@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>查询结果</title>
+    <link rel="stylesheet" href="../static/css/search_fschool.css">
+    <link rel="stylesheet" href="../static/css/result.css">
+</head>
+<body>
+<div style="text-align: right">
+    <<a  href="{{url_for('index')}}">退出</a>
+</div>
+<div class="box">
+    <h2>查询结果</h2>
+    <div class="inputBox">
+        {% if status=="1" %}
+            <label>地点：{{result}}</label>
+        {% elif status=="2" %}
+            <table width="90%" class="table">
+                <tr>
+                    <th>院校名称</th>
+                    <th>院校隶属</th>
+                    <th>研究生院</th>
+                    <th>自划线院校</th>
+                </tr>
+                {% for i in datazip %}
+                <tr>
+                    <td>{{i.school_name}}</td>
+                    <td>{{i.school_belongs}}</td>
+                    <td>{{i.school_graduate}}</td>
+                    <td>{{i.school_self}}</td>
+                </tr>
+                {% endfor%}
+            </table>
+        {% endif %}
+    </div>
+    <h2>&nbsp</h2>
+</div>
+</body>
+</html>

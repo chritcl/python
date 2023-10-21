@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>登录界面</title>
+    <link rel="stylesheet" type="text/css" href="../static/css/login.css">
+</head>
+<body>
+<div class="div_top_1"></div>
+<div class="main">
+    <div class="login">
+        <div class="div_top_2">
+        </div>
+        <div class="div_login_head">
+            登录
+        </div>
+        <div class="div_empty">
+        </div>
+        <form action="/login" method="GET">
+            <div class="div_input_account">
+                <input class="input_account" type="text" name="username" placeholder="请输入用户名"/>
+            </div>
+            <div class="div_empty">
+            </div>
+            <div class="div_input_pwd">
+                <input class="input_pwd" type="password" name="password" placeholder="请输入密码"/>
+            </div>
+            <div class="div_empty">
+            </div>
+            <div class="div_button_login">
+                <input class="button_login" type="submit" value="登录"/>
+            </div>
+        </form>
+        <form action="/to_register" method="GET">
+            <div class="div_button_login">
+                <input class="button_login" type="submit" value="注册"/>
+            </div>
+        </form>
+    </div>
+</div>
+</body>
+</html>

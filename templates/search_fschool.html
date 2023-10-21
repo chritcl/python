@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>院校地区查询</title>
+    <link rel="stylesheet" href="../static/css/search_fschool.css">
+</head>
+<body>
+    <div class="box">
+        <h2>院校地区信息查询</h2>
+        <form action="search_result_place" method="GET">
+            <div class="inputBox">
+              <input type="text" name="school" required="true">
+              <label>学校</label>
+            </div>
+            <div class="inputbutton">
+                <input type="submit" value="查询">
+            </div>
+        </form>
+        <form action="search_result_more" method="GET">
+            <div class="inputBox">
+                <input type="text" name="place" required="true">
+                <label>地点</label>
+            </div>
+            <div class="inputbutton">
+                <input type="submit" value="查询">
+            </div>
+        </form>
+        <div style="text-align: right">
+            <<a  href="{{url_for('index')}}">退出</a>
+        </div>
+	</div>
+</body>
+</html>
+

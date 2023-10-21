@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>全国疫情实时监控</title>
+    <link rel="stylesheet" href="../static/css/index.css" type="text/css">
+    <style type="text/css">
+    {
+        align-items:center;
+        background:#4494d5;
+        border-radius:3px;
+        color:#fff;cursor: pointer;
+        display:flex;
+        font-size:13px;
+        height:30px;
+        justify-content:center;
+        position:absolute;
+        width:60px;
+        z-index:1000}
+    </style>
+</head>
+
+<body>
+    <div id="title">中国研究生高校数据分析</div>
+    <div id="left1">
+        <div style="position: relative; width: 576px; height: 396px; padding: 0px; margin-top: 5%; border-width: 0px; ">
+            <div id="title1"><a href="{{ url_for('search') }}">院校地区查询</a></div>
+        </div>
+    </div>
+
+    <div id="left2">
+        <div style="position: relative; width: 576px; height: 396px; padding: 0px; margin-top: 3%; border-width: 0px;">
+            <img src="../static/image/研究生院和自划线院校分布图.png" width="570px" height="396px">
+        </div>
+    </div>
+
+    <div id="center1">
+        {% for i in datazip %}
+            <div class="item">
+                <div class="number" id="confirm">{{i.number}}</div>
+                <div class="text">{{i.address}}</div>
+            </div>
+        {% endfor%}
+    </div>
+    <div id="center2">
+        <div style="position: relative; width: 768px; height: 572px; padding: 0px; margin: 0px; border-width: 0px; cursor: default;">
+            <iframe marginwidth=0 marginheight=0 width="762px" height="572px" src="../static/image/map.html" scrolling="no"></iframe>
+        </div>
+    </div>
+    <div id="right1">
+        <div style="position: relative; width: 576px; height: 396px; padding: 0px; margin: 0px; border-width: 0px; cursor: default;">
+            <h4 id="title_left">你好，{{username}}<a  href="{{url_for('index')}}">退出</a></h4>
+        </div>
+    </div>
+
+    <div id="right2">
+        <div style="position: relative; width: 576px; height: 396px; padding: 0px; margin-top: 3%; border-width: 0px; cursor: default;">
+            <img src="../static/image/wordcloud.png" width="570px" height="396px">
+        </div>
+    </div>
+</body>
+</html>

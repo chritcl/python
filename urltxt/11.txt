@@ -1,0 +1,1712 @@
+https://yz.chsi.com.cn/sch/?start=200
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+    <title>院校信息_中国研究生招生信息网</title>
+    <meta name="keywords" content="考研院校信息,院校库,招生单位信息"/>
+    <meta name="description" content="院校信息 - 中国研究生招生信息网为您提供权威的研究生招生单位信息。"/>
+    <link rel="stylesheet" type="text/css" href='https://t1.chei.com.cn/common/plugins/autocomplete/jquery.autocomplete.css'/>
+    <style>
+        .sch-tag {
+            display: inline-block;
+            padding: 2px 6px;
+            font-size: 12px;
+            vertical-align: 1.5px;
+            line-height: 16px;
+            margin-left: 8px;
+            border-radius: 3px;
+        }
+        .sch-tag.blue {
+            background: #ebf4fb;
+            color: #54acf3;
+        }
+        .sch-tag.green {
+            background: #e4f8df;
+            color: #5da34d;
+        }
+    </style>
+    
+
+
+<link rel="dns-prefetch" href="//axvert.chsi.com.cn">
+<link rel="dns-prefetch" href="//t1.chei.com.cn">
+<link rel="dns-prefetch" href="//t2.chei.com.cn">
+<link rel="dns-prefetch" href="//t3.chei.com.cn">
+<link rel="dns-prefetch" href="//t4.chei.com.cn">
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<link rel="shortcut icon" href="https://t1.chei.com.cn/yz/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="https://t1.chei.com.cn/common/ch/iconfont.css">
+<link rel="stylesheet" href="https://t3.chei.com.cn/yz/assets/css/yz.min.css?20190918">
+<style>
+    .yz-header-banner-wrapper {
+        margin-bottom: 30px;
+        background: linear-gradient(179deg, #2094F0 0%, #1787E0 53%);
+    }
+    .yz-header-banner-wrapper .banner {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        height: 148px;
+        line-height: 148px;
+        background: url("https://t2.chei.com.cn/yz/assets/images/header-banner.png") no-repeat center top;
+        color: #fff;
+        text-shadow: 0 2px 2px rgb(0 0 0 / 6%);
+    }
+    .yz-header-banner-wrapper h1 {
+        line-height: 50px;
+        font-size: 38px;
+        font-weight: 700;
+    }
+    .yz-header-banner-wrapper .ch-sub-title {
+        margin-top: 4px;
+        line-height: 26px;
+        font-size: 16px;
+    }
+    .zyk-detail h2 {
+        padding-top: 0;
+    }
+</style>
+<script src="https://t1.chei.com.cn/common/jquery/1.8.3/jquery.min.js"></script>
+<script src="https://t1.chei.com.cn/common/axvert/js/showchsi_m.js"></script>
+<!--[if IE 6]>
+<script src="https://t4.chei.com.cn/yz/js/IE6PNG.js"></script>
+<script>DD_belatedPNG.fix('#dhBG,#dh_logo,img');</script>
+<![endif]-->
+    
+<script src="https://t1.chei.com.cn/common/zhuge/zhuge-1.0.0.js"></script>
+<script type="text/javascript">
+// 停用诸葛埋点
+window.zhuge = window.zhuge || [];
+window.zhuge.load = function (b, x) {};
+window.zhuge.track = function (b, x) {};
+var zhugeFun = {
+    init: function (flag) {
+        var OpenautoTrack = typeof flag != 'undefined' ? flag : false; //是否开启全埋点
+        window.zhuge.load('adfb574f9c54457db21741353c3b0aa7', { //配置应用的AppKey
+            autoTrack: OpenautoTrack
+        });
+    },
+    centerListClick: function (tab,title,type) {
+        zhuge.track('个人中心_入口点击', {
+           '入口类别': tab,
+           '入口名称': title,
+           '设备信息': type
+        });
+    }
+};
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-100524-7"></script>
+<script>
+function gaTrackerOutboundLink(ele,eventCategory,eventAction,eventLabel){
+    gtag('event', eventAction, {
+        'event_category': eventCategory,
+        'event_label': eventLabel
+    });
+    return true;
+};
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-100524-7', {'sample_rate': 5});
+</script>
+</head>
+<body class="ch-sticky">
+<img style="display: block;" src='https://t1.chei.com.cn/common/wap/images/share_yz.jpg' width='0' height='0'/>
+<div class="main-wrapper">
+    
+
+
+
+<!-- 1：吊顶区域 -->
+<style>
+/**
+ * description: top-nav-wrapper: 吊顶;
+ * author: myx;
+ * date: 2017-08;
+ */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.top-nav-wrapper {
+  width: 100%;
+  height: 40px;
+  line-height: 40px;
+  background: #f7f9fa;
+  border-bottom: 1px solid #d6d6d6;
+  font-size: 12px;
+  box-sizing: content-box;
+}
+.top-nav-wrapper * {
+  box-sizing: content-box;
+}
+.top-nav-wrapper a {
+  color: #333;
+}
+.top-nav-wrapper a.hot {
+  color: #ee6464;
+}
+.top-nav-wrapper a:hover {
+  text-decoration: underline;
+}
+.top-nav-wrapper .top-nav {
+  width: 1180px;
+  margin: 0 auto;
+}
+.top-nav-wrapper .top-nav-list {
+  float: left;
+  width: 980px;
+  height: 40px;
+}
+.top-nav-wrapper .top-nav-list a {
+  margin: 0 10px;
+}
+.top-nav-wrapper .top-nav-list a.top-nav-home {
+  display: inline-block;
+  width: 45px;
+  height: 40px;
+  padding-left: 50px;
+  margin-right: 15px;
+  margin-left: 0px;
+  margin-top: -1px;
+  background-image: url('https://t2.chei.com.cn/yz/assets/images/logo-min.png');
+  background-image: -webkit-image-set(url('https://t2.chei.com.cn/yz/assets/images/logo-min.png') 1x, url('https://t4.chei.com.cn/yz/assets/images/logo-min2x.png') 2x);
+  background-repeat: no-repeat;
+  background-position: 0 11px;
+  color: #1787e0;
+  font-weight: bold;
+  vertical-align: middle;
+}
+.top-nav-wrapper .top-nav-list a.top-nav-home:hover{
+  text-decoration: none;
+}
+.top-nav-wrapper .top-nav-load {
+  float: right;
+  width: 200px;
+  height: 40px;
+  text-align: right;
+}
+.top-nav-wrapper .top-nav-load a {
+  margin: 0 5px;
+}
+.top-nav-hide {
+  position: relative;
+  margin-left: 10px;
+  cursor: pointer;
+  color: #999;
+}
+.top-nav-hide:hover {
+  color: #333;
+}
+.top-nav-hide:hover .top-nav-pop {
+  display: block;
+}
+.top-nav-hide .iconfont {
+  font-size: 12px;
+  margin-right: -5px;
+}
+.top-nav-pop{
+  display: none;
+  position: absolute;
+  left: 0px;
+  top: 12px;
+  padding-top: 14px;
+  z-index: 9999;
+}
+.top-nav-hide ul {
+  width: 135px;
+  padding: 6px 0;
+  border: 1px solid #e5e5e5;
+  border-bottom: none;
+  background: #fff;
+  box-shadow: 2px 2px 8px #cdcdcd;
+}
+.top-nav-hide li {
+  line-height: 35px;
+}
+.top-nav-wrapper .top-nav-hide li a {
+  display: block;
+  margin: 0 10px;
+  border-bottom: 1px dashed #e5e5e5;
+}
+.top-nav-wrapper .top-nav-hide li.last a {
+  border-bottom: none;
+}
+.top-nav-wrapper .top-nav-hide li a:hover {
+  background: #f2f2f2;
+  margin: 0;
+  padding: 0 10px;
+  border-bottom: 1px dashed #f2f2f2;
+  font-weight: 700;
+  text-decoration: none;
+}
+.top-nav-wrapper .top-nav-hide li.last a:hover {
+  border-bottom: none;
+}
+.top-nav-point {
+    font-family: tahoma, arial, 'Microsoft YaHei', "Hiragino Sans GB", SimSun, sans-serif;
+}
+</style>
+<div class="top-nav-wrapper">
+    <div class="top-nav clearfix">
+        <div class="top-nav-list">
+            <a href="/" class="top-nav-home">&ensp;</a>
+            <a href="/kyzx/zcdh/">政策</a>
+            <a href="/kyinfo/">资讯</a>
+            <a href="/sch/">院校库</a>
+            <a href="/zyk/">专业库</a>
+            <a href="/zsml/">硕士目录</a>
+            <a href="/sswbgg/">网报公告</a>
+            <a href="/yzwb/">统考网报</a>
+            <a href="/kyzx/zt/kyfs2022.shtml">成绩查询</a>
+            <a href="/yztj/">网上调剂</a>
+            <a href="/tm/">推免服务</a>
+            <a href="/zsgs/">信息公开</a>
+            <a href="/zxdy/">在线咨询</a>
+            <span class="top-nav-hide">
+                <span class="top-nav-point">• • •</span>
+                <div class="top-nav-pop">
+                    <ul>
+                        <li><a href="/yzzt/zsxz">专业学位</a></li>
+                        <li><a href="/kyzx/zt/kyfs2022.shtml">复试分数线</a></li>
+                        <li><a href="/bsmlcx/">博士目录</a></li>
+                        <li class="last"><a href="/bsbm/" target="_blank">博士网报</a></li>
+                    </ul>
+                </div>
+            </span>
+        </div>
+        <div class="top-nav-load">
+            
+                
+                    <a href="https://yz.chsi.com.cn/user/?entrytype=yzgr">登录</a>
+                    |
+                    <a href="https://account.chsi.com.cn/account/preregister.action?from=yz-home">注册</a>
+                    
+                    
+            
+            |
+            <a href="/help/">帮助中心</a>
+        </div>
+    </div>
+</div>
+
+    <!--头部区域-->
+    <div class="yz-header-banner-wrapper">
+        <div class="banner">
+            <h1>院校库</h1>
+            <div class="ch-sub-title">为用户提供权威的研究生招生单位信息查询服务</div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="ch-header-second" style="width: auto; height: auto;">
+            <form class="zx-search-dw clearfix" action="/sch/searchyxmc.do" name="schform" onsubmit="return ymxcSubmit();">
+                <input class="ch-search-input" id="textyxmc" type="text" name="yxmc" placeholder="请输入招生单位"
+                    value='' maxlength="40" />
+                <button class="ch-search-btn" type="submit"><i class="iconfont" title="站内搜索">&#xe6a9;</i></button>
+            </form>
+        </div>
+        <div class="yxk-filter">
+            <form class="zx-search-yx" action="/sch/search.do" id="chooseForm">
+                <ul class="yxk-fliter-list">
+                    <li class="yxk-option-con clearfix">
+                        <div class="list-th">地区选择<i class="iconfont">&#xe601;</i></div>
+                        <div class="list-td clearfix">
+                            <select class="ch-hide" name="ssdm" id="ssdm">
+                                <option value="">院校所在地</option>
+                                
+                                    <option value="11" >
+                                        北京
+                                    </option>
+                                
+                                    <option value="12" >
+                                        天津
+                                    </option>
+                                
+                                    <option value="13" >
+                                        河北
+                                    </option>
+                                
+                                    <option value="14" >
+                                        山西
+                                    </option>
+                                
+                                    <option value="15" >
+                                        内蒙古
+                                    </option>
+                                
+                                    <option value="21" >
+                                        辽宁
+                                    </option>
+                                
+                                    <option value="22" >
+                                        吉林
+                                    </option>
+                                
+                                    <option value="23" >
+                                        黑龙江
+                                    </option>
+                                
+                                    <option value="31" >
+                                        上海
+                                    </option>
+                                
+                                    <option value="32" >
+                                        江苏
+                                    </option>
+                                
+                                    <option value="33" >
+                                        浙江
+                                    </option>
+                                
+                                    <option value="34" >
+                                        安徽
+                                    </option>
+                                
+                                    <option value="35" >
+                                        福建
+                                    </option>
+                                
+                                    <option value="36" >
+                                        江西
+                                    </option>
+                                
+                                    <option value="37" >
+                                        山东
+                                    </option>
+                                
+                                    <option value="41" >
+                                        河南
+                                    </option>
+                                
+                                    <option value="42" >
+                                        湖北
+                                    </option>
+                                
+                                    <option value="43" >
+                                        湖南
+                                    </option>
+                                
+                                    <option value="44" >
+                                        广东
+                                    </option>
+                                
+                                    <option value="45" >
+                                        广西
+                                    </option>
+                                
+                                    <option value="46" >
+                                        海南
+                                    </option>
+                                
+                                    <option value="50" >
+                                        重庆
+                                    </option>
+                                
+                                    <option value="51" >
+                                        四川
+                                    </option>
+                                
+                                    <option value="52" >
+                                        贵州
+                                    </option>
+                                
+                                    <option value="53" >
+                                        云南
+                                    </option>
+                                
+                                    <option value="54" >
+                                        西藏
+                                    </option>
+                                
+                                    <option value="61" >
+                                        陕西
+                                    </option>
+                                
+                                    <option value="62" >
+                                        甘肃
+                                    </option>
+                                
+                                    <option value="63" >
+                                        青海
+                                    </option>
+                                
+                                    <option value="64" >
+                                        宁夏
+                                    </option>
+                                
+                                    <option value="65" >
+                                        新疆
+                                    </option>
+                                
+                                    <option value="81" >
+                                        香港
+                                    </option>
+                                
+                                    <option value="91" >
+                                        澳门
+                                    </option>
+                                
+                                    <option value="71" >
+                                        台湾
+                                    </option>
+                                
+                            </select>
+                            <span class="yxk-all js-option selected" data-id="">全部</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="11">北京</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="12">天津</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="13">河北</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="14">山西</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="15">内蒙古</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="21">辽宁</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="22">吉林</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="23">黑龙江</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="31">上海</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="32">江苏</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="33">浙江</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="34">安徽</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="35">福建</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="36">江西</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="37">山东</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="41">河南</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="42">湖北</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="43">湖南</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="44">广东</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="45">广西</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="46">海南</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="50">重庆</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="51">四川</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="52">贵州</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="53">云南</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="54">西藏</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="61">陕西</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="62">甘肃</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="63">青海</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="64">宁夏</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="65">新疆</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="81">香港</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="91">澳门</span>
+                            
+                                <span class="yxk-option js-option "
+                                      data-id="71">台湾</span>
+                            
+                        </div>
+                    </li>
+                    <li class="yxk-option-con clearfix">
+                        <div class="list-th">院校隶属<i class="iconfont">&#xe601;</i></div>
+                        <div class="list-td clearfix">
+                            <select class="ch-hide" name="yxls">
+                                <option id="yxls_no" value="" selected='selected'>全部</option>
+                                <option id="yxls_moe" value="moe" >教育部</option>
+                                <option id="yxls_min" value="min" >其他部委</option>
+                                <option id="yxls_loc" value="loc" >地方</option>
+                            </select>
+                            <span class="yxk-all js-option js-ls selected" data-id="">全部</span>
+                            <span class="yxk-option js-option " data-id="moe">教育部</span>
+                            <span class="yxk-option js-option " data-id="min">其他部委</span>
+                            <span class="yxk-option js-option " data-id="loc">地方</span>
+                        </div>
+                    </li>
+                    <li class="yxk-xz clearfix">
+                        <div class="list-th">院校特性<i class="iconfont">&#xe601;</i></div>
+                        <div class="list-td">
+                            <label style="margin-right: 20px;" class="ch-check-label " for="ylgx">
+                                <input type="checkbox" name="ylgx" id="ylgx" value="1"  />“双一流”建设高校
+                            </label>
+                            <label class="ch-check-label " for="yjsy">
+                                <input type="checkbox" name="yjsy" id="yjsy" value="1"  />研究生院
+                            </label>
+                            <a href="//yz.chsi.com.cn/kyzx/kp/201101/20110119/161300374.html" target="_blank">
+                                <i class="iconfont" title="研究生院">&#xe67b;</i>
+                            </a>
+                            <label class="ch-check-label " for="zhx">
+                                <input type="checkbox" name="zhx" id="zhx" value="1"  />自划线院校
+                            </label>
+                            <a href="//yz.chsi.com.cn/kyzx/other/201208/20120827/337867799.html" target="_blank">
+                                <i class="iconfont" title="自划线院校">&#xe67b;</i>
+                            </a>
+                        </div>
+                    </li>
+                </ul>
+            </form>
+        </div>
+        <div style="color: #999; margin: -5px 0 5px 0;">注：各招生单位的院校库信息由其自主维护，如有疑问，请咨询发布单位。</div>
+        <div class="yxk-table">
+            <table class="ch-table">
+                <thead>
+                <tr>
+                    <th>院校名称</th>
+                    <th width="90">所在地</th>
+                    <th width="130">院校隶属</th>
+                    <th width="90" class="ch-table-center">研究生院</th>
+                    <th width="95" class="ch-table-center">自划线院校</th>
+                    <th width="80">网报公告</th>
+                    <th width="80">招生简章</th>
+                    <th width="80">在线咨询</th>
+                    <th width="80">调剂办法</th>
+                </tr>
+                </thead>
+                <tbody>
+                
+                    
+                        
+                            <tr>
+                                <td>
+                                    <a href="/sch/schoolInfo--schId-367966.dhtml" target='_blank'>
+                                        河北经贸大学
+                                    </a>
+                                    
+                                </td>
+                                <td>河北</td>
+                                <td>河北省</td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="text_center">
+                                    <a href="/sswbgg/?dwdm=11832&ssdm=13 " target="_blank">查看</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/listZszc--schId-367966,categoryId-10461955,mindex-13,start-0.dhtml"
+                                               target="_blank">查询</a>
+                                        
+                                        
+                                    
+                                </td>
+                                <td>
+                                    <a href="/zxdy/forum--type-sch,forumid-448038,method-listDefault,start-0,year-2014.dhtml"
+                                       target="_blank">进入</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/tjzc--method-listPub,schId-367966,categoryId-670917,mindex-15,start-0.dhtml"
+                                               target="_blank">查看</a>
+                                        
+                                        
+                                    
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td>
+                                    <a href="/sch/schoolInfo--schId-499721040.dhtml" target='_blank'>
+                                        中央司法警官学院
+                                    </a>
+                                    
+                                </td>
+                                <td>河北</td>
+                                <td>司法部</td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="text_center">
+                                    <a href="/sswbgg/?dwdm=11903&ssdm=13 " target="_blank">查看</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/listZszc--schId-499721040,categoryId-499721101,mindex-13,start-0.dhtml"
+                                               target="_blank">查询</a>
+                                        
+                                        
+                                    
+                                </td>
+                                <td>
+                                    <a href="/zxdy/forum--type-sch,forumid-499721103,method-listDefault,start-0,year-2014.dhtml"
+                                       target="_blank">进入</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/tjzc--method-listPub,schId-499721040,categoryId-499721099,mindex-15,start-0.dhtml"
+                                               target="_blank">查看</a>
+                                        
+                                        
+                                    
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td>
+                                    <a href="/sch/schoolInfo--schId-302982030.dhtml" target='_blank'>
+                                        河北传媒学院
+                                    </a>
+                                    
+                                </td>
+                                <td>河北</td>
+                                <td>河北省</td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="text_center">
+                                    <a href="/sswbgg/?dwdm=12784&ssdm=13 " target="_blank">查看</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/listZszc--schId-302982030,categoryId-302982095,mindex-13,start-0.dhtml"
+                                               target="_blank">查询</a>
+                                        
+                                        
+                                    
+                                </td>
+                                <td>
+                                    <a href="/zxdy/forum--type-sch,forumid-302982097,method-listDefault,start-0,year-2014.dhtml"
+                                       target="_blank">进入</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/tjzc--method-listPub,schId-302982030,categoryId-302982093,mindex-15,start-0.dhtml"
+                                               target="_blank">查看</a>
+                                        
+                                        
+                                    
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td>
+                                    <a href="/sch/schoolInfo--schId-1474556852.dhtml" target='_blank'>
+                                        河北中医学院
+                                    </a>
+                                    
+                                </td>
+                                <td>河北</td>
+                                <td>河北省</td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="text_center">
+                                    <a href="/sswbgg/?dwdm=14432&ssdm=13 " target="_blank">查看</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                        
+                                            <a href="/sch/listZszc--schId-1474556852,categoryId-1474556905,mindex-13,start-0.dhtml"
+                                               target="_blank">查询</a>
+                                        
+                                        
+                                    
+                                    
+                                </td>
+                                <td>
+                                    <a href="/zxdy/forum--type-sch,forumid-1474556909,method-listDefault,start-0,year-2014.dhtml"
+                                       target="_blank">进入</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/tjzc--method-listPub,schId-1474556852,categoryId-1474556903,mindex-15,start-0.dhtml"
+                                               target="_blank">查看</a>
+                                        
+                                        
+                                    
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td>
+                                    <a href="/sch/schoolInfo--schId-367971.dhtml" target='_blank'>
+                                        邯郸净化设备研究所
+                                    </a>
+                                    
+                                </td>
+                                <td>河北</td>
+                                <td>工业与信息化部</td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="text_center">
+                                    <a href="/sswbgg/?dwdm=86221&ssdm=13 " target="_blank">查看</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                        
+                                            <a href="/sch/listZszc--schId-367971,categoryId-10462520,mindex-13,start-0.dhtml"
+                                               target="_blank">查询</a>
+                                        
+                                        
+                                    
+                                    
+                                </td>
+                                <td>
+                                    <a href="/zxdy/forum--type-sch,forumid-448106,method-listDefault,start-0,year-2014.dhtml"
+                                       target="_blank">进入</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/tjzc--method-listPub,schId-367971,categoryId-670929,mindex-15,start-0.dhtml"
+                                               target="_blank">查看</a>
+                                        
+                                        
+                                    
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td>
+                                    <a href="/sch/schoolInfo--schId-367997.dhtml" target='_blank'>
+                                        山西大学
+                                    </a>
+                                    
+                                        <span class="sch-tag blue">“双一流”建设高校</span>
+                                    
+                                </td>
+                                <td>山西</td>
+                                <td>山西省</td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="text_center">
+                                    <a href="/sswbgg/?dwdm=10108&ssdm=14 " target="_blank">查看</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                        
+                                            <a href="/sch/listZszc--schId-367997,categoryId-10461004,mindex-13,start-0.dhtml"
+                                               target="_blank">查询</a>
+                                        
+                                        
+                                    
+                                    
+                                </td>
+                                <td>
+                                    <a href="/zxdy/forum--type-sch,forumid-448431,method-listDefault,start-0,year-2014.dhtml"
+                                       target="_blank">进入</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/tjzc--method-listPub,schId-367997,categoryId-670937,mindex-15,start-0.dhtml"
+                                               target="_blank">查看</a>
+                                        
+                                        
+                                    
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td>
+                                    <a href="/sch/schoolInfo--schId-367996.dhtml" target='_blank'>
+                                        太原科技大学
+                                    </a>
+                                    
+                                </td>
+                                <td>山西</td>
+                                <td>山西省</td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="text_center">
+                                    <a href="/sswbgg/?dwdm=10109&ssdm=14 " target="_blank">查看</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                        
+                                            <a href="/sch/listZszc--schId-367996,categoryId-10461006,mindex-13,start-0.dhtml"
+                                               target="_blank">查询</a>
+                                        
+                                        
+                                    
+                                    
+                                </td>
+                                <td>
+                                    <a href="/zxdy/forum--type-sch,forumid-456767,method-listDefault,start-0,year-2014.dhtml"
+                                       target="_blank">进入</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/tjzc--method-listPub,schId-367996,categoryId-670939,mindex-15,start-0.dhtml"
+                                               target="_blank">查看</a>
+                                        
+                                        
+                                    
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td>
+                                    <a href="/sch/schoolInfo--schId-367995.dhtml" target='_blank'>
+                                        中北大学
+                                    </a>
+                                    
+                                </td>
+                                <td>山西</td>
+                                <td>山西省</td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="text_center">
+                                    <a href="/sswbgg/?dwdm=10110&ssdm=14 " target="_blank">查看</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/listZszc--schId-367995,categoryId-10461008,mindex-13,start-0.dhtml"
+                                               target="_blank">查询</a>
+                                        
+                                        
+                                    
+                                </td>
+                                <td>
+                                    <a href="/zxdy/forum--type-sch,forumid-448414,method-listDefault,start-0,year-2014.dhtml"
+                                       target="_blank">进入</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/tjzc--method-listPub,schId-367995,categoryId-670941,mindex-15,start-0.dhtml"
+                                               target="_blank">查看</a>
+                                        
+                                        
+                                    
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td>
+                                    <a href="/sch/schoolInfo--schId-367994.dhtml" target='_blank'>
+                                        太原理工大学
+                                    </a>
+                                    
+                                        <span class="sch-tag blue">“双一流”建设高校</span>
+                                    
+                                </td>
+                                <td>山西</td>
+                                <td>山西省</td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="text_center">
+                                    <a href="/sswbgg/?dwdm=10112&ssdm=14 " target="_blank">查看</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/listZszc--schId-367994,categoryId-10461010,mindex-13,start-0.dhtml"
+                                               target="_blank">查询</a>
+                                        
+                                        
+                                    
+                                </td>
+                                <td>
+                                    <a href="/zxdy/forum--type-sch,forumid-448397,method-listDefault,start-0,year-2014.dhtml"
+                                       target="_blank">进入</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/tjzc--method-listPub,schId-367994,categoryId-670943,mindex-15,start-0.dhtml"
+                                               target="_blank">查看</a>
+                                        
+                                        
+                                    
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td>
+                                    <a href="/sch/schoolInfo--schId-367993.dhtml" target='_blank'>
+                                        山西农业大学
+                                    </a>
+                                    
+                                </td>
+                                <td>山西</td>
+                                <td>山西省</td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="text_center">
+                                    <a href="/sswbgg/?dwdm=10113&ssdm=14 " target="_blank">查看</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/listZszc--schId-367993,categoryId-10461012,mindex-13,start-0.dhtml"
+                                               target="_blank">查询</a>
+                                        
+                                        
+                                    
+                                </td>
+                                <td>
+                                    <a href="/zxdy/forum--type-sch,forumid-448379,method-listDefault,start-0,year-2014.dhtml"
+                                       target="_blank">进入</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/tjzc--method-listPub,schId-367993,categoryId-670945,mindex-15,start-0.dhtml"
+                                               target="_blank">查看</a>
+                                        
+                                        
+                                    
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td>
+                                    <a href="/sch/schoolInfo--schId-367992.dhtml" target='_blank'>
+                                        山西医科大学
+                                    </a>
+                                    
+                                </td>
+                                <td>山西</td>
+                                <td>山西省</td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="text_center">
+                                    <a href="/sswbgg/?dwdm=10114&ssdm=14 " target="_blank">查看</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/listZszc--schId-367992,categoryId-10461014,mindex-13,start-0.dhtml"
+                                               target="_blank">查询</a>
+                                        
+                                        
+                                    
+                                </td>
+                                <td>
+                                    <a href="/zxdy/forum--type-sch,forumid-455727,method-listDefault,start-0,year-2014.dhtml"
+                                       target="_blank">进入</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/tjzc--method-listPub,schId-367992,categoryId-670947,mindex-15,start-0.dhtml"
+                                               target="_blank">查看</a>
+                                        
+                                        
+                                    
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td>
+                                    <a href="/sch/schoolInfo--schId-499721619.dhtml" target='_blank'>
+                                        长治医学院
+                                    </a>
+                                    
+                                </td>
+                                <td>山西</td>
+                                <td>山西省</td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="text_center">
+                                    <a href="/sswbgg/?dwdm=10117&ssdm=14 " target="_blank">查看</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                        
+                                            <a href="/sch/listZszc--schId-499721619,categoryId-499721673,mindex-13,start-0.dhtml"
+                                               target="_blank">查询</a>
+                                        
+                                        
+                                    
+                                    
+                                </td>
+                                <td>
+                                    <a href="/zxdy/forum--type-sch,forumid-499721675,method-listDefault,start-0,year-2014.dhtml"
+                                       target="_blank">进入</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/tjzc--method-listPub,schId-499721619,categoryId-499721671,mindex-15,start-0.dhtml"
+                                               target="_blank">查看</a>
+                                        
+                                        
+                                    
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td>
+                                    <a href="/sch/schoolInfo--schId-367998.dhtml" target='_blank'>
+                                        山西师范大学
+                                    </a>
+                                    
+                                </td>
+                                <td>山西</td>
+                                <td>山西省</td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="text_center">
+                                    <a href="/sswbgg/?dwdm=10118&ssdm=14 " target="_blank">查看</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/listZszc--schId-367998,categoryId-10461016,mindex-13,start-0.dhtml"
+                                               target="_blank">查询</a>
+                                        
+                                        
+                                    
+                                </td>
+                                <td>
+                                    <a href="/zxdy/forum--type-sch,forumid-448449,method-listDefault,start-0,year-2014.dhtml"
+                                       target="_blank">进入</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/tjzc--method-listPub,schId-367998,categoryId-670949,mindex-15,start-0.dhtml"
+                                               target="_blank">查看</a>
+                                        
+                                        
+                                    
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td>
+                                    <a href="/sch/schoolInfo--schId-688908348.dhtml" target='_blank'>
+                                        太原师范学院
+                                    </a>
+                                    
+                                </td>
+                                <td>山西</td>
+                                <td>山西省</td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="text_center">
+                                    <a href="/sswbgg/?dwdm=10119&ssdm=14 " target="_blank">查看</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                        
+                                            <a href="/sch/listZszc--schId-688908348,categoryId-688908401,mindex-13,start-0.dhtml"
+                                               target="_blank">查询</a>
+                                        
+                                        
+                                    
+                                    
+                                </td>
+                                <td>
+                                    <a href="/zxdy/forum--type-sch,forumid-688908403,method-listDefault,start-0,year-2014.dhtml"
+                                       target="_blank">进入</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/tjzc--method-listPub,schId-688908348,categoryId-688908399,mindex-15,start-0.dhtml"
+                                               target="_blank">查看</a>
+                                        
+                                        
+                                    
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td>
+                                    <a href="/sch/schoolInfo--schId-2125710548.dhtml" target='_blank'>
+                                        山西大同大学
+                                    </a>
+                                    
+                                </td>
+                                <td>山西</td>
+                                <td>山西省</td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="text_center">
+                                    <a href="/sswbgg/?dwdm=10120&ssdm=14 " target="_blank">查看</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/listZszc--schId-2125710548,categoryId-2125710611,mindex-13,start-0.dhtml"
+                                               target="_blank">查询</a>
+                                        
+                                        
+                                    
+                                </td>
+                                <td>
+                                    <a href="/zxdy/forum--type-sch,forumid-2125710615,method-listDefault,start-0,year-2014.dhtml"
+                                       target="_blank">进入</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/tjzc--method-listPub,schId-2125710548,categoryId-2125710609,mindex-15,start-0.dhtml"
+                                               target="_blank">查看</a>
+                                        
+                                        
+                                    
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td>
+                                    <a href="/sch/schoolInfo--schId-367987.dhtml" target='_blank'>
+                                        山西财经大学
+                                    </a>
+                                    
+                                </td>
+                                <td>山西</td>
+                                <td>山西省</td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="text_center">
+                                    <a href="/sswbgg/?dwdm=10125&ssdm=14 " target="_blank">查看</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                        
+                                            <a href="/sch/listZszc--schId-367987,categoryId-10461018,mindex-13,start-0.dhtml"
+                                               target="_blank">查询</a>
+                                        
+                                        
+                                    
+                                    
+                                </td>
+                                <td>
+                                    <a href="/zxdy/forum--type-sch,forumid-448311,method-listDefault,start-0,year-2014.dhtml"
+                                       target="_blank">进入</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/tjzc--method-listPub,schId-367987,categoryId-670951,mindex-15,start-0.dhtml"
+                                               target="_blank">查看</a>
+                                        
+                                        
+                                    
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td>
+                                    <a href="/sch/schoolInfo--schId-8243981.dhtml" target='_blank'>
+                                        山西中医药大学
+                                    </a>
+                                    
+                                </td>
+                                <td>山西</td>
+                                <td>山西省</td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="text_center">
+                                    <a href="/sswbgg/?dwdm=10809&ssdm=14 " target="_blank">查看</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/listZszc--schId-8243981,categoryId-10460766,mindex-13,start-0.dhtml"
+                                               target="_blank">查询</a>
+                                        
+                                        
+                                    
+                                </td>
+                                <td>
+                                    <a href="/zxdy/forum--type-sch,forumid-8244034,method-listDefault,start-0,year-2014.dhtml"
+                                       target="_blank">进入</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/tjzc--method-listPub,schId-8243981,categoryId-8244032,mindex-15,start-0.dhtml"
+                                               target="_blank">查看</a>
+                                        
+                                        
+                                    
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td>
+                                    <a href="/sch/schoolInfo--schId-367990.dhtml" target='_blank'>
+                                        中国辐射防护研究院
+                                    </a>
+                                    
+                                </td>
+                                <td>山西</td>
+                                <td>工业与信息化部</td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="text_center">
+                                    <a href="/sswbgg/?dwdm=82808&ssdm=14 " target="_blank">查看</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/listZszc--schId-367990,categoryId-10462211,mindex-13,start-0.dhtml"
+                                               target="_blank">查询</a>
+                                        
+                                        
+                                    
+                                </td>
+                                <td>
+                                    <a href="/zxdy/forum--type-sch,forumid-448345,method-listDefault,start-0,year-2014.dhtml"
+                                       target="_blank">进入</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/tjzc--method-listPub,schId-367990,categoryId-670955,mindex-15,start-0.dhtml"
+                                               target="_blank">查看</a>
+                                        
+                                        
+                                    
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td>
+                                    <a href="/sch/schoolInfo--schId-367989.dhtml" target='_blank'>
+                                        北方自动控制技术研究所
+                                    </a>
+                                    
+                                </td>
+                                <td>山西</td>
+                                <td>工业与信息化部</td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="text_center">
+                                    <a href="/sswbgg/?dwdm=83106&ssdm=14 " target="_blank">查看</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/listZszc--schId-367989,categoryId-10462307,mindex-13,start-0.dhtml"
+                                               target="_blank">查询</a>
+                                        
+                                        
+                                    
+                                </td>
+                                <td>
+                                    <a href="/zxdy/forum--type-sch,forumid-448328,method-listDefault,start-0,year-2014.dhtml"
+                                       target="_blank">进入</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/tjzc--method-listPub,schId-367989,categoryId-670957,mindex-15,start-0.dhtml"
+                                               target="_blank">查看</a>
+                                        
+                                        
+                                    
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td>
+                                    <a href="/sch/schoolInfo--schId-367986.dhtml" target='_blank'>
+                                        中国日用化学工业研究院
+                                    </a>
+                                    
+                                </td>
+                                <td>山西</td>
+                                <td>转制科研单位</td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="ch-table-center">
+                                    
+                                </td>
+                                <td class="text_center">
+                                    <a href="/sswbgg/?dwdm=83704&ssdm=14 " target="_blank">查看</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                        
+                                            <a href="/sch/listZszc--schId-367986,categoryId-10462394,mindex-13,start-0.dhtml"
+                                               target="_blank">查询</a>
+                                        
+                                        
+                                    
+                                    
+                                </td>
+                                <td>
+                                    <a href="/zxdy/forum--type-sch,forumid-448294,method-listDefault,start-0,year-2014.dhtml"
+                                       target="_blank">进入</a>
+                                </td>
+                                <td class='text_center'>
+                                    
+                                    
+                                        
+                                            <a href="/sch/tjzc--method-listPub,schId-367986,categoryId-670959,mindex-15,start-0.dhtml"
+                                               target="_blank">查看</a>
+                                        
+                                        
+                                    
+                                </td>
+                            </tr>
+                        
+                    
+                    
+                
+                </tbody>
+            </table>
+            <div class="ch-page-wrapper clearfix">
+                <div class='pager-box clearfix'><form method='post' onsubmit='return gotopage(this);'><ul class='ch-page clearfix'><li class='lip lip-first'><a href='/sch/?start=180'><i class='iconfont'>&#xe603;</i></a></li><li class='lip'><a href='/sch/?start=0'>1</a></li><li class='lip dot'>...</li><li class='lip '><a href='/sch/?start=160'>9</a></li><li class='lip '><a href='/sch/?start=180'>10</a></li><li class='lip selected'><a href='#'>11</a></li><li class='lip '><a href='/sch/?start=220'>12</a></li><li class='lip '><a href='/sch/?start=240'>13</a></li><li class='lip dot'>...</li><li class='lip'><a href='/sch/?start=860'>44</a></li><li class='lip '><a href='/sch/?start=220'><i class='iconfont'>&#xe601;</i></a></li><li class='lip lip-input-box clearfix lip-last'><input type='text' id='p_num' class='page-input' value='11' name='page'><input type='submit' value='Go' class='page-btn'></li> </ul> </form></div><script type='text/javascript'>function gotopage(obj){var PN = obj.page.value;var Num = parseInt(PN);if(isNaN(Num)){window.alert('请输入有效的数字');return false;}if (Num > 44) {window.alert('没有那么多页');return false;}if (Num < 1) {window.alert('请输入有效的数字');return false;}pagenum = (Num - 1) * 20;var actionStr = '/sch/?start='+pagenum;obj.action= actionStr;document.getElementById('p_num').disabled='disabled';return true;}</script>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<!-- 4: 底部区域 -->
+<style>
+    /**
+     * description: footer 共用底部;
+     * author:myx;
+     * date:2017-07;
+     */
+
+    .footer-wrapper {
+        line-height: 30px;
+        background: #282828;
+        color: #ababab;
+    }
+
+    .footer-wrapper a {
+        color: #ababab;
+    }
+
+    .footer-wrapper .footer {
+        position: relative;
+        width: 1180px;
+        height: 198px;
+        margin: 0 auto;
+    }
+
+    .footer-wrapper .footer-list {
+        position: absolute;
+        top: 32px;
+        left: 0px;
+    }
+
+    .footer-wrapper .footer-list a {
+        margin-right: 15px;
+    }
+
+    .footer-wrapper .footer-units {
+        position: absolute;
+        top: 75px;
+        left: 0px;
+    }
+
+    .footer-wrapper .footer-media {
+        position: absolute;
+        top: 32px;
+        left: 844px;
+    }
+
+    .footer-wrapper .footer-media a {
+        display: inline-block;
+        margin-right: 30px;
+        vertical-align: top;
+    }
+
+    .footer-wrapper .footer-media a:hover {
+        text-decoration: none;
+    }
+
+    .footer-wrapper .footer-media .iconfont {
+        margin-right: 5px;
+        font-size: 20px;
+        vertical-align: middle;
+    }
+
+    .footer-wrapper .footer-msg {
+        position: absolute;
+        top: 75px;
+        left: 844px;
+    }
+</style>
+<div class="footer-wrapper">
+    <div class="footer">
+        <div class="footer-list">
+            <a href="//www.chsi.com.cn/" target="_blank">学信网</a>
+            <a href="https://chesicc.chsi.com.cn/zxgw/zxjs/201604/20160418/1529506207.html" target="_blank">中心简介</a>
+            <a href="/doc/about.jsp" target="_blank">关于我们</a>
+            <a href="/doc/copyright.jsp" target="_blank">版权声明</a>
+            <a href="/help/" target="_blank">帮助中心</a>
+            <a href="/sitemap.jsp" target="_blank">网站地图</a>
+            <a href="https://www.chsi.com.cn/ad/index.shtml" target="_blank">网站宣传</a>
+        </div>
+        <div class="footer-units">
+            主办单位：<a href="https://chesicc.chsi.com.cn/" target="_blank">教育部学生服务与素质发展中心（原全国高等学校学生信息咨询与就业指导中心）</a><br>
+            Copyright © 2003-2022 <a href="//www.chsi.com.cn/" target="_blank">学信网</a> All Rights Reserved<br>
+            <a href="https://beian.miit.gov.cn" target="_blank">京ICP备19004913号-1</a>
+            <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202009747" target="_blank">
+                <img src="https://t1.chei.com.cn/chsi/images/jgwab.png" style="vertical-align: middle; margin-bottom: 2px; margin-left: 8px;">
+                京公网安备11010202009747号
+            </a>
+        </div>
+        <div class="footer-media">
+            <a href="/kyzx/kp/wbwx.shtml" target="_blank"><i class="iconfont" title="官方微信">&#xe694;</i>官方微信</a>
+            <a href="/kyzx/kp/wbwx.shtml" target="_blank"><i class="iconfont" title="官方微博">&#xe693;</i>官方微博</a>
+        </div>
+        <div class="footer-msg">
+            客服热线：010-67410388<br>
+            客服邮箱：kefu#chsi.com.cn（将#替换为@）
+        </div>
+    </div>
+</div>
+<script src="https://t1.chei.com.cn/common/plugins/autocomplete/jquery.autocomplete.js"></script>
+
+
+
+<script src="https://t1.chei.com.cn/common/plugins/layer/layer.js"></script>
+<script src="https://t1.chei.com.cn/common/plugins/placeholder-fix.js"></script>
+<script src="https://t1.chei.com.cn/common/ch/browser/least-ie11.min.js"></script>
+<script>
+    $(function () {
+        //诸葛埋点
+        zhugeFun.init();
+        zhuge.track('yxkindex-pageview', {
+            '设备信息': 'PC'
+        });
+        //招生单位名称自动完成
+        $("#textyxmc").autocomplete('/sch/auto.jsp', {
+            selectFirst: true,
+            autoFill: true,
+            selectOnly: true,
+            remoteDataType: 'json'
+        });
+        //select模拟单选功能
+        $('.js-option').click(function () {
+            var $this = $(this),
+                thisVal = $(this).attr('data-id');
+            if ($this.hasClass('selected')) {
+                return;
+            }
+            $this.siblings('select').find('option').removeAttr('selected');
+            $this.siblings('select').find('option[value=' + thisVal + ']').prop('selected', true);
+            $this.addClass('selected').siblings().removeClass('selected');
+            $('#chooseForm').submit();
+        });
+        //复选框选择后提交表单
+        $('.yxk-xz input[type=checkbox]').click(function () {
+            if($(this).prop('checked')){
+                $(this).parents('label').addClass('selected');
+            }else{
+                $(this).parents('label').removeClass('selected');
+            }
+            $('#chooseForm').submit();
+        });
+    });
+
+    function ymxcSubmit() {
+        var $yxmc = $('#textyxmc');
+        var yxmc = $yxmc.val();
+        if (yxmc == "请输入招生单位名称" || yxmc == '') {
+            alert("招生单位名称不能为空！");
+            return false;
+        } else if (yxmc.length < 2 || !ischinese(yxmc)) {
+            alert("请输入至少2个汉字");
+            return false;
+        } else if (yxmc.length > 50 || !ischinese(yxmc)) {
+            alert("招生单位名称不能超过50个汉字");
+            return false;
+        } else if (!checkSpecial(yxmc)) {
+            alert("不能包含特殊字符");
+            return false;
+        } else {
+            return true;
+        }
+    }
+
+    function ischinese(str) {
+        if (/[^\x00-\xff]/g.test(str)) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    function checkSpecial(str) {
+        var reg = /^[^@\/\'\\\"#$%&\^\*]+$/;
+        if (reg.test(str)) {
+            return true;
+        } else {
+            return false;//包含非法字符
+        }
+    }
+</script>
+</body>
+</html>
